@@ -14,5 +14,34 @@ A lo largo de la resolución de estos cuatro ejercicios, reforcé mis conocimien
     *   En el Ejercicio 8, en lugar de enredarme con los punteros para mezclar las dos listas, extraje los datos de mi propia lista a un arreglo para aplicar un ordenamiento Burbuja de forma segura.
 *   **Cumplimiento de la rúbrica:** Todo el código fue desarrollado de forma original, sin el uso de herramientas de Inteligencia Artificial (IA). No se utilizaron las librerías `LinkedList` o `ArrayList` de Java; las clases `Nodo` y `ListaSimple` fueron creadas desde cero por el estudiante para demostrar el dominio de los punteros.
   
-## Como Compilar
-* **usando 
+# Cómo compilar y ejecutar
+
+Para ejecutar cada ejercicio, abre CMD dentro de la carpeta correspondiente y ejecuta los siguientes comandos.
+
+## Ejercicio 2: Cuenta letras al vector
+
+```cmd
+javac Nodo.java ListaSimple.java Main.java
+java Main
+```
+
+## Ejercicio 4: Inserción en listas enlazadas
+
+```cmd
+javac Nodo.java ListaSimple.java Main.java
+java Main
+```
+
+## Ejercicio 6: Caja de dulces
+
+```cmd
+javac Nodo.java ListaSimple.java Main.java
+java Main
+```
+
+## Ejercicio 8: Desde estructura
+
+```cmd
+javac Nodo.java ListaSimple.java Main.java
+java Main
+```
