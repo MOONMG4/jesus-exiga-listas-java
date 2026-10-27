@@ -31,7 +31,7 @@ public class ListaSimple {
     /** Cuenta cuántas veces aparece una letra específica. */
     public int contarLetra(char buscada) {
         int contador = 0;
-        Nodo actual = cabeza;
+        Nodo actual = cabeza;	
         while (actual != null) {
             if (actual.letra == buscada) {
                 contador++;
